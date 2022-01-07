@@ -9,8 +9,8 @@
 	"brightPurple": "#FF00FF",
 	"brightRed": "#800000",
 	"brightWhite": "#FFFFFF",
-	"brightYellow": "#FFFF00",
-	"cursorColor": "#FFFFFF",
+	"brightYellow": "#FFBA00",
+	"cursorColor": "#FFBAFF",
 	"cyan": "#008080",
 	"foreground": "#C0C0C0",
 	"green": "#00FF00",
@@ -19,5 +19,5 @@
 	"red": "#800000",
 	"selectionBackground": "#FFFFFF",
 	"white": "#FFFFFF",
-	"yellow": "#FFFF00"
+	"yellow": "#FFBA00"
 },
